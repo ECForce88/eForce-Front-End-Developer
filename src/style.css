@@ -234,31 +234,10 @@
     margin:0;
     padding:0;
   }
-  #logo {
-    max-height: 55px;
-    margin-bottom: 0;
-    margin-left: 0;
-    
-    border-style: solid;
-    border-width: 4px;
-    border-color: var(--accent-1);
-    border-radius: 4px;
-  }
-  #logo:hover {
-    background-color: var(--color-1);
-  }
-  #social-icon {
-    max-height: 30px;
-    margin-bottom: 0px;
-  }
-  #linkedin {
-    max-height: 34px;
-    margin-bottom: 0px;
-  }
   #email-address {
     color: var(--accent-1);
     font-weight: 700;
-  }
+  } 
   #email-address:hover {
     background-color: var(--accent-3a);
     cursor: pointer;
@@ -285,6 +264,27 @@
   #LI-icon {
     height: 25px;
     margin-left: 37px;
+  }
+  #linkedin {
+    max-height: 34px;
+    margin-bottom: 0px;
+  }
+  #logo {
+    max-height: 55px;
+    margin-bottom: 0;
+    margin-left: 0;
+    
+    border-style: solid;
+    border-width: 4px;
+    border-color: var(--accent-1);
+    border-radius: 4px;
+  }
+  #logo:hover {
+    background-color: var(--color-1);
+  }
+  #social-icon {
+    max-height: 30px;
+    margin-bottom: 0px;
   }
   #title-image {
     display: block;
