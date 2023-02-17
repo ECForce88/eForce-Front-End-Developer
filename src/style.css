@@ -188,8 +188,9 @@
     justify-content: center;
     margin: 0 auto;
   }
-  .next-img {
+  .soon-img {
     box-shadow: 6px 6px 6px #21265e;
+    width:417px;
   }
   .weather-img {
     box-shadow: 6px 6px 6px #21265e;
