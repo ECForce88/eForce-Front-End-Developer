@@ -13,12 +13,11 @@
   }
   a {
     color: white;
-    font-size:18px;
     font-weight: 700;
     text-decoration: none;
   }
   a.nav-link{
-    font-size:24px;
+
   }
   a.nav-link:hover {
     cursor: pointer;
