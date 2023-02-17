@@ -102,6 +102,11 @@
   .bg-pink {
     background-color: #fca5bb28;
   }
+  .bg-theme-blue {
+    background-color: var(--color-1);
+    margin-bottom: 0;
+    padding-bottom: 0;
+  }
   .btn-toolbar {
     display: flex;
     justify-content: center;
